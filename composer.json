@@ -1,0 +1,20 @@
+{
+    "name": "invoiceku-id/invoiceku-php-sdk",
+    "description": "PHP SDK untuk integrasi Invoiceku.id",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "InvoicekuId\\InvoicekuPhpSdk\\": "Domains/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diki Akbar",
+            "email": "diki.akbar1304@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
