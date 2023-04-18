@@ -7,7 +7,7 @@ class Config
     /**
      * Api Base URL
      */
-    public static string $app_url = "https://invoiceku.id";
+    public static string $app_url = "https://api.invoiceku.id";
 
     /**
      * Dapatkan apikey milik anda disini :
