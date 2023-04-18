@@ -1,6 +1,6 @@
 {
     "name": "invoiceku-id/invoiceku-php-sdk",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "description": "PHP SDK untuk integrasi Invoiceku.id",
     "type": "library",
     "license": "MIT",
